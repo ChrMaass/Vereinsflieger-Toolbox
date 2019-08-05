@@ -339,3 +339,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /VereinsfliegerTester/secrets.json
+/VereinsfliegerApi/test.json
